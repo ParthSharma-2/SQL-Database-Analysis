@@ -10,13 +10,13 @@ Use SQL to:
 *Become the data expert for the company, and the go to person for mission critical analyses.*  
 *Analyze and optimize the business’ marketing channels, website, and product portfolio.*  
 
-## [🔹ANALYZING TRAFFIC SOURCES.](https://github.com/SQL-eCommerce-Database-Analysis/blob/main/ANALYZING%20TRAFFIC%20SOURCES.sql)
+## [🔹ANALYZING TRAFFIC SOURCES.](https://github.com/ParthSharma-2/SQL-Database-Analysis/blob/main/ANALYZING%20TRAFFIC%20SOURCES.sql)
 *Traffic source analysis is about understanding where your customers are coming from and which channels are driving the highest quality traffic EMAIL*
 * Analyzing search data and shifting budget towards the engines, campaigns or keywords driving the strongest conversion rates.*
 * Comparing user behavior patterns across traffic sources to inform creative and messaging strategy.*
 * Identifying opportunities to eliminate wasted spend or scale high-converting traffic.*
 
-## [🔹ANALYZING WEBSITE PERFORMANCE.](https://github.com/SQL-eCommerce-Database-Analysis/blob/main/ANALYZING%20WEBSITE%20PERFORMANCE..sql)
+## [🔹ANALYZING WEBSITE PERFORMANCE.](https://github.com/ParthSharma-2/SQL-Database-Analysis/blob/main/ANALYZING%20WEBSITE%20PERFORMANCE..sql)
 *Website content analysis is about understanding which pages are seen the most by your users, to identify where to focus on improving your business*
 * Finding the most-viewed pages that customers view on your site.*  
 * Identifying the most common entry pages to your website – the first thing a user sees.*  
@@ -34,7 +34,7 @@ Use SQL to:
 * Identifying how many of your users continue on to each next step in your conversion flow, and how many users abandon at each step.*  
 * Optimizing critical pain points where users are abandoning, so that you can convert more users and sell more products.*  
 
-## [🔹ANALYSIS FOR CHANNEL MANAGEMENT.](https://github.com/SQL-eCommerce-Database-Analysis/blob/main/ANALYSIS%20FOR%20CHANNEL%20MANAGEMENT.sql)
+## [🔹ANALYSIS FOR CHANNEL MANAGEMENT.](https://github.com/ParthSharma-2/SQL-Database-Analysis/blob/main/ANALYSIS%20FOR%20CHANNEL%20MANAGEMENT.sql)
 
 ### BUSINESS CONCEPT: CHANNEL PORTFOLIO OPTIMIZATION.
 *Analyzing a portfolio of marketing channels is about bidding efficiently and using data to maximize the effectiveness of your marketing budget*  
@@ -50,14 +50,14 @@ Use SQL to:
 * Understanding whether or not your paid traffic is generating a “halo” effect, and promoting additional direct traffic.*  
 * Assessing the impact of various initiatives on how many customers seek out your business.*  
 
-## [🔹ANALYSIS FOR BUSINESS PATTERNS & SEASONALITY.](https://github.com/SQL-eCommerce-Database-Analysis/blob/main/ANALYSIS%20FOR%20BUSINESS%20PATTERNS%20%26%20SEASONALITY..sql)
+## [🔹ANALYSIS FOR BUSINESS PATTERNS & SEASONALITY.](https://github.com/ParthSharma-2/SQL-Database-Analysis/blob/main/ANALYSIS%20FOR%20BUSINESS%20PATTERNS%20%26%20SEASONALITY..sql)
 
 ### BUSINESS CONCEPT: ANALYZING SEASONALITY & BUSINESS PATTERNS.
 *Analyzing business patterns is about generating insights to help you maximize efficiency and anticipate future trends*   
 * Day-parting analysis to understand how much support staff you should have at different times of day or days of the week*  
 * Analyzing seasonality to better prepare for upcoming spikes or slowdowns in demand.*
 
-## [🔹PRODUCT ANALYSIS.](https://github.com/SQL-eCommerce-Database-Analysis/blob/main/PRODUCT%20ANALYSIS..sql)
+## [🔹PRODUCT ANALYSIS.](https://github.com/ParthSharma-2/SQL-Database-Analysis/blob/main/PRODUCT%20ANALYSIS..sql)
 
 ### BUSINESS CONCEPT: PRODUCT SALES ANALYSIS.
 *Analyzing product sales helps you understand how each product contributes to your business, and how product launches impact the overall portfolio.*  
@@ -78,7 +78,7 @@ Use SQL to:
 * Taking product refund rates and the associated costs into account when assessing the overall performance of your business.*  
 
 
-## [🔹USER ANALYSIS.](https://github.com/SQL-eCommerce-Database-Analysis/blob/main/USER%20ANALYSIS.sql)
+## [🔹USER ANALYSIS.](https://github.com/ParthSharma-2/SQL-Database-Analysis/blob/main/USER%20ANALYSIS.sql)
 ### BUSINESS CONCEPT: ANALYZE REPEAT BEHAVIOR.
 *Analyzing repeat visits helps you understand user behavior and identify some of your most valuable customers*
 * Analyzing repeat activity to see how often customers are coming back to visit your site.*  
